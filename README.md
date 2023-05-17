@@ -3,7 +3,7 @@ Find and show gaze point from live video stream
 
 Run code file: estimategaze.py : to capture video and display Gaze point coordinate on the video screen and print related code values on terminal.
 
-## Method used for Gaze point estimation:
+## Method used for Gaze point estimation
 
 Single Eye based Gaze Point estimation as discussed in reference paper (3), using Polynomial Affine Transformation (4) (5) (8) (9) as discussed in section 3.2 of reference paper (1) and data transformation methods discussed in section 4 of reference paper (2) to implement the Pinhole camera model (12).
 
@@ -11,7 +11,7 @@ Mediapipe Facemesh model (10)(11) is used for face landmark points.
 
 Model and Camera calibaration approximation values are used from reference (6).
 
-##References
+## References
 
 (1) https://www.smohanty.org/Publications_Journals/2019/Mohanty_IEEE-Potentials_2019-Jan_Gaze-Estimation.pdf
 
