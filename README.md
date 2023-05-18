@@ -1,7 +1,7 @@
 ## gazepoint
 Find and show gaze point from live video stream
 
-Run code file: estimategaze.py : to capture video and display Gaze point coordinate on the video screen and print related code values on terminal.
+Run code file: **estimategaze.py** : to capture video and display Gaze point coordinate on the video screen and print related code values on terminal.
 
 ## Method used for Gaze point estimation
 
